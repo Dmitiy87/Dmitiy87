@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Dmitiy87/Dmitiy87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dmitriy87/Dmitiy87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
